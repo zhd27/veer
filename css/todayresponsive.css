@@ -1,0 +1,142 @@
+/*
+@media (min-width: 320px) and (max-width: 575.98px) {
+    
+    .navbar-nav .nav-item .nav-link{
+    font-size: 18px;    
+           text-align: center;
+           background-color: darkgrey;
+           color: black;
+           font-weight: bold;
+    }
+    .navbar-nav .nav-item .nav-link.active{
+          color: black;
+           font-weight: bold;
+    }
+
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    
+
+
+}
+    
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+       .navbar-nav .nav-item .nav-link{
+    font-size: 18px;    
+           text-align: center;
+           background-color: darkgrey;
+           color: black;
+           font-weight: bold;
+    }
+    .navbar-nav .nav-item .nav-link.active{
+          color: black;
+           font-weight: bold;
+    }
+
+}
+    
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    
+    .banner_content h1 {
+    font-size: 140px;
+    }
+    .banner_content p {
+    font-size: 22px;
+    }
+    .banner_content h1:after {
+    top: 364px;
+    }
+    .banner_content a {
+    font-size: 22px;
+    }
+   .there_image {
+
+    padding: 50px 0px
+    }
+    .there_image h4 {
+        font-size: 24px;
+    }
+    .there_image p {
+        font-size: 18px;
+    }
+    .navbar-nav .nav-item .nav-link{
+    font-size: 18px;    
+    }
+    
+}
+    
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+     .banner_content h1 {
+    font-size: 150px;
+    }
+    .banner_content p {
+    font-size: 25px;
+    }
+    .middle_content h2 {
+    font-size: 50px;
+    }
+.middle_content p {
+    font-size: 20px;
+    }
+ .there_image {
+
+    padding: 50px 0px
+    }
+    .there_image h4 {
+        font-size: 24px;
+    }
+    .there_image p {
+        font-size: 18px;
+    }
+    .banner_content h1:after {
+  
+    top: 376px;
+    }
+    
+    .banner_content a {
+    font-size: 20px;
+    }
+ .navbar-nav .nav-item .nav-link{
+    font-size: 20px;    
+    }
+}
+    
+
+@media (min-width: 1400px) {
+    .there_image {
+
+    padding: 50px 0px
+    }
+    .there_image h4 {
+        font-size: 26px;
+    }
+    .there_image p {
+        font-size: 20px;
+    }
+    
+     .banner_content h1:after {
+  
+    top: 384px;
+    }
+    
+    .banner_content a {
+    font-size: 20px;
+    }
+     .banner_content h1 {
+    font-size: 160px;
+    }
+    .form_content {
+    width: 645px;
+    }
+    .navbar-nav .nav-item .nav-link{
+    font-size: 20px;    
+    }
+    
+}
+    
+
+*/
