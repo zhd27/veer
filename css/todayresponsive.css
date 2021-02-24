@@ -1,141 +1,275 @@
-/*
+
 @media (min-width: 320px) and (max-width: 575.98px) {
     
     .navbar-nav .nav-item .nav-link{
-    font-size: 18px;    
+    font-size: 14px;    
            text-align: center;
            background-color: darkgrey;
-           color: black;
-           font-weight: bold;
+           color: white;
+           font-weight: ;
+        padding: 5px 0px;
     }
     .navbar-nav .nav-item .nav-link.active{
           color: black;
            font-weight: bold;
     }
 
+    .banner_content h1 {
+    font-size: 45px
+    }
+    .banner_content h1{
+        margin-bottom: 50px;
+    }
+    .our_service {
+    padding-top: 40px;
+    }
+    .only_text {
+        text-align: center;
+        margin-top: 30px;
+    }
+    .allservice {
+    padding-top: 80px;
+    padding-bottom: 50px;
+        text-align: center;
+    }
+    .img_text {
+        padding: 0px 20px;
+        margin-bottom: 40px;
+    }
+    .header_tex h2{
+        margin-bottom: 50px;
+    }
+    .tea_content{
+         margin-bottom: 50px; 
+    }
+    .blog {
+    padding: 50px 0px;
+    }
+    .blog_content{
+        margin-bottom: 50px;
+    }
+    .work_content {
+    text-align: center;
+        margin-bottom: 20px;
+    }
+    .work_contents {
+    text-align: center;
+    }
+    .footer_content{
+        text-align: center;
+        border-right:none;
+    }
+    
 }
 
 
 @media (min-width: 576px) and (max-width: 767.98px) {
     
-
-
-}
-    
-
-@media (min-width: 768px) and (max-width: 991.98px) {
-       .navbar-nav .nav-item .nav-link{
-    font-size: 18px;    
+    .navbar-nav .nav-item .nav-link{
+    font-size: 14px;    
            text-align: center;
            background-color: darkgrey;
-           color: black;
-           font-weight: bold;
+           color: white;
+           font-weight: ;
+        padding: 5px 0px;
     }
     .navbar-nav .nav-item .nav-link.active{
           color: black;
            font-weight: bold;
     }
-
+    .only_text {
+        text-align: center;
+    }
+    .only_text{
+        margin-top: 40px;
+    }
+    .allservice {
+    padding-top: 80px;
+    padding-bottom: 40px;
+    }
+    .header_tex h2{
+        margin-bottom: 60px;
+    }
+    .my_works {
+    padding-bottom: 30px;
+    }
+    .tea_content {
+    margin-bottom: 50px;
+        font-size: 40px;
+    }
+      .blog_content{
+        margin-bottom: 60px;
+    }   
+    .blog {
+    padding: 60px 0px;
+    }
+    .work_contents,..work_content{
+        text-align: right;
+    }
+    .footer_content{
+        text-align: center;
+           padding: 30px 0px;
+                border-right:none;
+    }
+ 
+ 
+    
 }
     
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+        .navbar-nav .nav-item .nav-link{
+    font-size: 14px;    
+           text-align: center;
+           background-color: ;
+           color: black;
+           font-weight: ;
+        padding: 5px 0px;
+    }
+    .navbar-nav .nav-item .nav-link.active{
+          color: black;
+           font-weight: bold;
+    }
+    .banner_content h1 {
+    font-size: 80px;
+        letter-spacing: 7px;
+    }
+    .only_text{
+        padding: 50px 0px;
+        text-align: center;
+    }
+    .only_text h2 {
+    font-size: 35px;
+        margin-bottom: 20px;
+    }
+    .allservice {
+    padding-top: 40px;
+    padding-bottom: 50px;
+    }
+    .nopad{
+        padding: 35px 0px;
+    }
+}
+
+
 
 @media (min-width: 992px) and (max-width: 1199.98px) {
+    .only_text{
+        padding: 0px 20px;
+    } 
+    .allservice {
+    padding-top: 90px;
+    padding-bottom: 50px;
+    }
     
-    .banner_content h1 {
-    font-size: 140px;
+    .header_tex h2 {
+    margin-bottom: 45px
     }
-    .banner_content p {
-    font-size: 22px;
+    .blog_content p{
+        font-size: 16px;
     }
-    .banner_content h1:after {
-    top: 364px;
+     .blog_content h5{
+        font-size: 17px;
+         margin-top: 30px;
+         margin-bottom: 15px
     }
-    .banner_content a {
-    font-size: 22px;
-    }
-   .there_image {
-
-    padding: 50px 0px
-    }
-    .there_image h4 {
-        font-size: 24px;
-    }
-    .there_image p {
-        font-size: 18px;
-    }
-    .navbar-nav .nav-item .nav-link{
-    font-size: 18px;    
+    .footer_content{
+        margin-left: 70px;
     }
     
 }
     
+
 @media (min-width: 1200px) and (max-width: 1399.98px) {
      .banner_content h1 {
-    font-size: 150px;
+    font-size: 80px;
+    margin-bottom: 70px
     }
-    .banner_content p {
-    font-size: 25px;
+    .only_text p {
+    font-size: 16px;
+    margin-bottom: 40px;
     }
-    .middle_content h2 {
-    font-size: 50px;
+    .only_text h2 {
+        margin-bottom: 20px;
     }
-.middle_content p {
-    font-size: 20px;
+    .only_text {
+    padding: 0px 20px;
     }
- .there_image {
-
-    padding: 50px 0px
+    .allservice {
+    padding-top: 90px;
+    padding-bottom: 30px;
     }
-    .there_image h4 {
-        font-size: 24px;
+    .img_text h4{
+        font-size: 17px;
     }
-    .there_image p {
-        font-size: 18px;
-    }
-    .banner_content h1:after {
-  
-    top: 376px;
+    .img_text p{
+        font-size: 17px;
     }
     
-    .banner_content a {
-    font-size: 20px;
+.img_text {
+    padding: 35px 25px;
+}
+    .overlay a {
+    font-size: 17px;
     }
- .navbar-nav .nav-item .nav-link{
-    font-size: 20px;    
+    .header_tex h2 {
+        margin-bottom: 60px;
     }
+
+    .tea {
+    background: url(../image/color_back.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 35px 0px;
+    }
+    .blog {
+    padding: 80px 0px;
+    }
+    
+    .work_content span {
+    font-size: 30px;
+    }
+    .work_contents a {
+    font-size: 15px;
+    }
+      .footer_content{
+        margin-left: 80px;
+    }
+    .bottom_part p {
+    font-size: 16px;
+    }
+
 }
     
 
 @media (min-width: 1400px) {
-    .there_image {
-
-    padding: 50px 0px
+     .footer_content{
+        margin-left: 100px;
     }
-    .there_image h4 {
-        font-size: 26px;
+    .banner_content h1 {
+    font-size: 80px;
+        margin-bottom:70px;
     }
-    .there_image p {
-        font-size: 20px;
+    .banner_content a{
+        font-size: 18px;
     }
-    
-     .banner_content h1:after {
-  
-    top: 384px;
+    .only_text h2 {
+    font-size: 40px;
+        margin-bottom: 30px;
     }
-    
-    .banner_content a {
-    font-size: 20px;
+    .only_text {
+    padding: 0px 30px;
     }
-     .banner_content h1 {
-    font-size: 160px;
+    .only_text p {
+    font-size: 16px;
+    margin-bottom: 55px;
     }
-    .form_content {
-    width: 645px;
+    .only_text a {
+    font-size: 16px;
     }
-    .navbar-nav .nav-item .nav-link{
-    font-size: 20px;    
-    }
-    
+      
 }
     
 
