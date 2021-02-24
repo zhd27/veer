@@ -230,14 +230,17 @@ font-size: 15px;
     padding: 100px 0px;
 }
 .work_content{
-    text-align: center;
+    text-align: right;
 }
 .work_content span{
     font-size: 25px;
         color: white;
-    margin-right: 30px;
+
 }
-.work_content a{
+.work_contents{
+    margin-top: 10px;
+}
+.work_contents a{
     font-size: 13px;
     background-color: #4be694;
     color: white;
@@ -245,10 +248,9 @@ font-size: 15px;
     border-radius: 25px;
     text-transform: uppercase;
     font-weight: 600;
-    margin-left: 30px;
      transition: all linear .3s;
 }
-.work_content a:hover{
+.work_contents a:hover{
     background-color: rebeccapurple;
     transition: all linear .3s;
 }
