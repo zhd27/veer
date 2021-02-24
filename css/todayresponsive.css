@@ -112,7 +112,9 @@
                 border-right:none;
     }
  
- 
+ .work_contents {
+    text-align: right;
+}
     
 }
     
@@ -150,6 +152,18 @@
     .nopad{
         padding: 35px 0px;
     }
+    .work_contents {
+    text-align: center;
+    }
+    .footer_content {
+    margin-left: 30px
+}
+    .imgservice {
+    text-align: right;
+    }
+    
+    
+    
 }
 
 
@@ -269,7 +283,7 @@
     .only_text a {
     font-size: 16px;
     }
-      
+    
 }
     
 
